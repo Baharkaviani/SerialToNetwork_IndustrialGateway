@@ -13,6 +13,9 @@ RS485:
 </p>
 
 * [RS485 wikipedia](https://en.wikipedia.org/wiki/RS-485)
-* [RS-485 Serial Interface Explained] (https://www.cuidevices.com/blog/rs-485-serial-interface-explained)
+* [RS-485 Serial Interface Explained](https://www.cuidevices.com/blog/rs-485-serial-interface-explained)
 
-## RS485
+### RS485
+
+### socker programming with c
+* [geeksforgeeks](https://www.geeksforgeeks.org/socket-programming-cc/)
